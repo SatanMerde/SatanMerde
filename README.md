@@ -1,21 +1,22 @@
 <div align="center">
 
 <!-- Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=220&section=header&text=SatanMerde&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Tinkerer%20%7C%20Audio%20Engineering%20%7C%20Open%20Source%20Creator&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=220&section=header&text=SatanMerde&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=100%25%20Vibe%20Coder%20%7C%200%25%20Coding%20Knowledge%20%7C%20Pure%20AI%20%26%20Vision&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
 <br/>
 
 <!-- Dynamic Typing Tagline -->
 <a href="https://github.com/SatanMerde">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Crafting+advanced+Android+apps+%26+audio+experiences;Creator+of+BitChard+%E2%80%94+Next-Gen+YTM+Client;Reverse+engineering+%26+custom+framework+patches;Building+the+future+of+open-source+music" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=0%25+coding+knowledge%2C+100%25+Vibe+Coding+%E2%9C%A8;I+don't+write+code%2C+I+vibe+with+AI+and+magic+happens;Creator+of+BitChard+%E2%80%94+Built+purely+with+Vibe+Coding;Turning+wild+ideas+into+real+apps+through+prompting;Proof+that+pure+vision+%2B+AI+can+ship+insane+software" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- Badges Row -->
+[![Role](https://img.shields.io/badge/Role-100%25%20Vibe%20Coder-FF007A?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/SatanMerde)
+[![Coding Skills](https://img.shields.io/badge/Coding%20Knowledge-0%25%20(Pure%20Vibes)-00D2FF?style=for-the-badge)](https://github.com/SatanMerde)
+[![Superpower](https://img.shields.io/badge/Superpower-AI%20Whisperer-8A2BE2?style=for-the-badge&logo=google&logoColor=white)](https://github.com/SatanMerde)
 [![Profile Views](https://komarev.com/ghpvc/?username=SatanMerde&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SatanMerde)
-[![GitHub Followers](https://img.shields.io/github/followers/SatanMerde?label=Followers&style=for-the-badge&color=8A2BE2&logo=github&logoColor=white)](https://github.com/SatanMerde?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-32-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/SatanMerde?tab=repositories)
 
 </div>
 
@@ -23,25 +24,34 @@
 
 ---
 
-### ⚡ About Me
+### 🔮 Le Vibe Coder Manifesto / The 100% Vibe Coding Philosophy
+
+> [!TIP]
+> ### 🧠 **La vérité vraie / 100% Transparent**
+> **Je n'ai absolument AUCUNE connaissance en programmation informatique !**
+> 
+> Je ne connais ni la syntaxe complexe des langages, ni les algorithmes, et je serais incapable d'écrire du code à la main. 
+> 
+> **Tout ce que vous voyez sur ce profil est le résultat pur et dur du VIBE CODING :**
+> - J'ai des idées claires, de la vision et une exigence totale sur l'UI/UX et le son.
+> - Je discute, je guide, je challenge et je pilote les meilleures intelligences artificielles (Claude, Gemini, GPT).
+> - Ensemble, on donne vie à des applications complètes, audacieuses et concrètes comme **BitChard** ou **D-moniakPatches** !
+> 
+> *Zero coding background. 100% vision, prompt engineering & vibe coding.*
 
 ```kotlin
-data class Developer(
+data class VibeCoder(
     val name: String = "SatanMerde",
-    val passion: List<String> = listOf("Android Modding", "Audio Engineering", "Kotlin Multiplatform", "UI/UX"),
-    val mission: String = "Building private, ad-free, audiophile-grade tools with stunning modern interfaces",
-    val currentFocus: String = "BitChard — The AI-powered, word-synced music streaming powerhouse"
+    val codingKnowledge: String = "0% (Je sais pas coder du tout 🤷‍♂️)",
+    val method: String = "100% Vibe Coding avec les LLMs 🚀",
+    val favoriteStack: List<String> = listOf("Prompts précis", "Vision produit", "IA poussée à bout", "Test & Feedback"),
+    val proudAchievement: String = "Avoir créé BitChard (DJ IA vocal, Paroles Apple Music, Lossless FLAC) sans savoir coder !"
 )
 ```
 
-- 🎧 **Deeply Passionate About Sound**: Audio pipelines, DSP, 24-bit FLAC Hi-Res, crossfades, and real-time word-by-word synced lyrics.
-- 📱 **Android & Multiplatform Geek**: Crafting sleek Jetpack Compose UI with glassmorphism, dynamic blur, and Material You.
-- 🤖 **AI Integration**: Bridging LLMs (Gemini, Claude, OpenAI) into interactive everyday client experiences (like BitG AI DJ).
-- 🔓 **Open-Source Advocate**: Freedom, privacy, zero ads, zero bloatware.
-
 ---
 
-### 🚀 Featured Creations & Projects
+### 🚀 Ce que le Vibe Coding a permis de créer
 
 <div align="center">
 
@@ -50,36 +60,36 @@ data class Developer(
     <td width="50%" valign="top">
       <h3 align="center">🎵 <a href="https://github.com/SatanMerde/BitChard">BitChard</a></h3>
       <p align="center">
-        <b>The Next-Generation YouTube Music & Spotify Client</b><br/>
+        <b>Le client YouTube Music & Spotify ultime — 100% Vibe Codé</b><br/>
         <i>Android • Desktop • Android TV • WearOS</i>
       </p>
       <ul>
-        <li>🤖 <b>BitG AI DJ</b> : Live TTS voice commentary powered by Google Gemini & Claude.</li>
-        <li>🎤 <b>Apple Music-Style Lyrics</b> : Syllable & word-level synchronized lyrics.</li>
-        <li>🎧 <b>Audiophile Engine</b> : 24-bit Lossless FLAC, gapless playback & crossfade.</li>
-        <li>📦 <b>Editable Playlists & 1-Click Spotify Batch Import</b>.</li>
+        <li>🤖 <b>BitG AI DJ</b> : DJ vocal interactif propulsé par Gemini & Claude.</li>
+        <li>🎤 <b>Paroles Apple Music-Style</b> : Synchronisées mot à mot et syllabe par syllabe.</li>
+        <li>🎧 <b>Moteur Son Audiophile</b> : Flux Hi-Res FLAC 24-bit Lossless, fondu enchaîné intelligent.</li>
+        <li>📦 <b>Playlists 100% modifiables & Import Spotify en 1 clic</b>.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/SatanMerde/BitChard">
-          <img src="https://img.shields.io/badge/Explore-BitChard-00D2FF?style=for-the-badge&logo=android&logoColor=white" alt="BitChard" />
+          <img src="https://img.shields.io/badge/Découvrir-BitChard-00D2FF?style=for-the-badge&logo=android&logoColor=white" alt="BitChard" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🦈 <a href="https://github.com/SatanMerde/D-moniakPatches">D-moniakPatches</a></h3>
       <p align="center">
-        <b>Bibliothèque tierce de patchs pour le framework Morphe</b><br/>
-        <i>Android Modding • ReVanced / Morphe Integration</i>
+        <b>Bibliothèque de patchs pour le framework Morphe</b><br/>
+        <i>Android Modding • 100% généré par IA</i>
       </p>
       <ul>
-        <li>⚡ Collection de patchs avancés et automatisés.</li>
-        <li>🧩 Intégration modulaire pour enrichir vos applications favorites.</li>
+        <li>⚡ Suite de patchs avancés et automatisés.</li>
+        <li>🧩 Intégration modulaire pour enrichir vos applications.</li>
         <li>⭐ <b>16+ Stars</b> sur GitHub.</li>
-        <li>🛠️ Développé avec Kotlin et Smali.</li>
+        <li>🛠️ Conçu sans écrire une seule ligne de code à la main !</li>
       </ul>
       <p align="center">
         <a href="https://github.com/SatanMerde/D-moniakPatches">
-          <img src="https://img.shields.io/badge/Explore-D--moniakPatches-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="D-moniakPatches" />
+          <img src="https://img.shields.io/badge/Découvrir-D--moniakPatches-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="D-moniakPatches" />
         </a>
       </p>
     </td>
@@ -90,23 +100,24 @@ data class Developer(
 
 ---
 
-### 🛠️ Tech Arsenal & Stack
+### 🤖 Mon Arsenal de Vibe Coding / My AI Stack
+
+Au lieu d'écrire du code à la main, voici les outils et modèles que je pilote pour concevoir mes projets :
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Rôle | Outils & Modèles d'IA |
 |---|---|
-| **Mobile & Multiplatform** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-000000?style=for-the-badge&logo=kotlin&logoColor=white) |
-| **Languages & Core** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Audio & Media** | ![ExoPlayer](https://img.shields.io/badge/Media3_/_ExoPlayer-E50914?style=for-the-badge&logo=youtube&logoColor=white) ![FLAC](https://img.shields.io/badge/Lossless_FLAC-00D2FF?style=for-the-badge&logo=soundcharts&logoColor=white) ![TTS](https://img.shields.io/badge/Native_TTS-FF6F00?style=for-the-badge&logo=google&logoColor=white) |
-| **AI & APIs** | ![Gemini](https://img.shields.io/badge/Google_Gemini_2.0-8E75C4?style=for-the-badge&logo=google&logoColor=white) ![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white) |
-| **Tooling & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) |
+| **Cerveaux IA & LLMs** | ![Claude 3.5](https://img.shields.io/badge/Anthropic_Claude_3.5_Sonnet-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini 2.0](https://img.shields.io/badge/Google_Gemini_2.0_Flash-8E75C4?style=for-the-badge&logo=google&logoColor=white) ![GPT-4o](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| **Méthodologie** | ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF007A?style=for-the-badge&logo=sparkles&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00D2FF?style=for-the-badge) ![Pair Programming IA](https://img.shields.io/badge/AI_Pair_Programming-7F52FF?style=for-the-badge) |
+| **Cibles de sortie** | ![Android](https://img.shields.io/badge/Android_Kotlin-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Desktop Multiplatform](https://img.shields.io/badge/Desktop_Multiplatform-000000?style=for-the-badge&logo=windows&logoColor=white) |
+| **Écosystème** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Statistiques GitHub / Live Metrics
 
 <div align="center">
 
@@ -127,6 +138,6 @@ data class Developer(
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,24,12,1&height=120&section=footer" width="100%" alt="Footer" />
 
-<i>✨ "Music is art, code is the canvas." — Created with passion by <b>SatanMerde</b></i>
+<i>✨ "You don't need to write code to build the future. You just need pure vision, taste, and the right vibes with AI." — <b>SatanMerde</b></i>
 
 </div>
