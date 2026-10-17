@@ -34,7 +34,7 @@
 > With no traditional programming background, I focus entirely on what truly creates exceptional products: **uncompromising product vision, refined UI/UX design, and audiophile-grade audio pipelines**.
 > 
 > - 🇫🇷 **French Creator**: Designing sleek, high-performance open-source experiences with passion.
-> - 🤖 **Directing Frontier AI**: Brainstorming, prompting, and orchestrating state-of-the-art models (**Claude 3.7 Sonnet**, **Gemini 2.5 Pro**, **OpenAI o3-mini**).
+> - 🤖 **Directing Frontier AI**: Brainstorming, prompting, and orchestrating next-gen models (**Claude Opus 5.5**, **Claude Sonnet 4.6**, **Claude Fable 5.1**, **Gemini 4 Argon**, **Gemini 3.8 Flash High**, **GPT 6.1 Sol**).
 > - 🚀 **Proof of Concept**: Delivering complete, production-grade applications like **BitChard** and **D-moniakPatches** purely through iterative AI collaboration.
 > 
 > *"Code is the output, vision is the engine."*
@@ -64,7 +64,7 @@ data class VibeCoder(
         <i>Android • Desktop (Win/Linux/Mac) • Android TV • WearOS</i>
       </p>
       <ul>
-        <li>🤖 <b>BitG AI DJ</b> : Interactive voice DJ powered by Gemini 2.5 & Claude 3.7.</li>
+        <li>🤖 <b>BitG AI DJ</b> : Interactive voice DJ powered by Gemini 4 Argon & Claude Opus 5.5.</li>
         <li>🎤 <b>Apple Music-Style Lyrics</b> : Synchronized syllable-by-syllable and word-by-word.</li>
         <li>🎧 <b>Audiophile Sound Engine</b> : 24-bit Lossless FLAC, intelligent crossfade & EQ.</li>
         <li>📦 <b>100% Editable Playlists & 1-Click Spotify batch import</b>.</li>
@@ -108,7 +108,7 @@ Instead of manual syntax and compilers, here are the frontier AI brains and meth
 
 | Category | AI Brains & Tools |
 |---|---|
-| **Frontier Reasoning & LLMs** | ![Claude 3.7](https://img.shields.io/badge/Anthropic_Claude_3.7_Sonnet-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini 2.5](https://img.shields.io/badge/Google_Gemini_2.5_Pro-8E75C4?style=for-the-badge&logo=google&logoColor=white) ![OpenAI o3](https://img.shields.io/badge/OpenAI_o3--mini-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| **Frontier Reasoning & LLMs** | ![Claude Opus 5.5](https://img.shields.io/badge/Claude_Opus_5.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Claude Sonnet 4.6](https://img.shields.io/badge/Claude_Sonnet_4.6-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Claude Fable 5.1](https://img.shields.io/badge/Claude_Fable_5.1-D97757?style=for-the-badge&logo=anthropic&logoColor=white)<br/>![Gemini 4 Argon](https://img.shields.io/badge/Gemini_4_Argon-8E75C4?style=for-the-badge&logo=google&logoColor=white) ![Gemini 3.8 Flash High](https://img.shields.io/badge/Gemini_3.8_Flash_High-4285F4?style=for-the-badge&logo=google&logoColor=white) ![GPT 6.1 Sol](https://img.shields.io/badge/GPT_6.1_Sol-10A37F?style=for-the-badge&logo=openai&logoColor=white) |
 | **Methodology** | ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF007A?style=for-the-badge&logo=sparkles&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00D2FF?style=for-the-badge) ![AI Pair Programming](https://img.shields.io/badge/AI_Pair_Programming-7F52FF?style=for-the-badge) |
 | **Shipped Platforms** | ![Android](https://img.shields.io/badge/Android_Kotlin-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Desktop Multiplatform](https://img.shields.io/badge/Desktop_Multiplatform-000000?style=for-the-badge&logo=windows&logoColor=white) |
 | **Ecosystem & Delivery** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
