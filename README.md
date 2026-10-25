@@ -15,6 +15,7 @@
 <!-- Professional Badges -->
 [![Location](https://img.shields.io/badge/Location-France%20%F0%9F%87%AB%F0%9F%87%B7-0055A5?style=flat-square&logoColor=white)](https://github.com/SatanMerde)
 [![Ecosystem](https://img.shields.io/badge/Focus-Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/pw9wNbDzMx)
 [![UI/UX](https://img.shields.io/badge/Design-Compose%20%26%20Material%20You-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://github.com/SatanMerde)
 [![License](https://img.shields.io/badge/Open%20Source-GPL%20%2F%20MIT-00D2FF?style=flat-square)](https://github.com/SatanMerde)
 
@@ -79,8 +80,22 @@ My work centers on **desktop and mobile multiplatform development**, **audiophil
     </td>
   </tr>
 </table>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Official Community & Discord
+Connect with the community, get support, test beta releases, and share AI DJ prompts for **BitChard** & **D-moniakPatches** :
+
+<a href="https://discord.gg/pw9wNbDzMx">
+  <img src="https://img.shields.io/badge/Discord-Join%20Official%20Community%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord Server" />
+</a>
 
 </div>
+
+<br/>
 
 ---
 
