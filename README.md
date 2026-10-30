@@ -120,8 +120,8 @@ Connect with the community, get support, test beta releases, and share AI DJ pro
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=SatanMerde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D2FF&icon_color=8A2BE2&text_color=ffffff" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=SatanMerde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D2FF&text_color=ffffff" height="165" alt="Top Languages" />
+  <img src="profile-assets/github-stats.svg" height="165" alt="GitHub Stats" />
+  <img src="profile-assets/top-langs.svg" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
