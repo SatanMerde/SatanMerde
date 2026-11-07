@@ -99,10 +99,7 @@ My work centers on **desktop and mobile multiplatform development**, **audiophil
         <a href="https://metamorphe.vercel.app/">
           <img src="https://img.shields.io/badge/Live_Site-9333EA?style=flat-square&logo=vercel&logoColor=white" alt="Live Site" />
         </a>
-        &nbsp;
-        <a href="https://github.com/SatanMerde/metamorphe">
-          <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
-        </a>
+
       </p>
     </td>
   </tr>
