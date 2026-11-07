@@ -7,7 +7,7 @@
 
 <!-- Refined Tagline -->
 <a href="https://github.com/SatanMerde">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00D2FF&center=true&vCenter=true&width=700&lines=Building+modern%2C+high-performance+multiplatform+apps;Creator+of+BitChard+%E2%80%94+Advanced+YouTube+Music+Client;Kotlin+Multiplatform+%E2%80%A2+Compose+%E2%80%A2+Audiophile+Sound;Focused+on+sleek+UI%2FUX+and+sound+architecture" alt="Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00D2FF&center=true&vCenter=true&width=700&lines=Building+modern%2C+high-performance+software;Creator+of+D-moniakPatches+%26+Morphy+Patches+Creator;Android+Bytecode+Reverse+Engineering+%E2%80%A2+Kotlin;Focused+on+resilient+patching+and+agentic+tooling" alt="Tagline" />
 </a>
 
 <br/><br/>
@@ -44,7 +44,7 @@ My work centers on **desktop and mobile multiplatform development**, **audiophil
 
 <table>
   <tr>
-    <td width="33.33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">🦈 <a href="https://github.com/SatanMerde/D-moniakPatches">D-moniakPatches</a></h3>
       <p align="center">
         <b>Modular Android Patch Ecosystem</b><br/>
@@ -62,7 +62,7 @@ My work centers on **desktop and mobile multiplatform development**, **audiophil
         </a>
       </p>
     </td>
-    <td width="33.33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">🛠️ <a href="https://github.com/SatanMerde/Morphy-Patches-Creator">Morphy Patches Creator</a></h3>
       <p align="center">
         <b>Reverse Engineering & Patch Pipeline</b><br/>
@@ -77,24 +77,6 @@ My work centers on **desktop and mobile multiplatform development**, **audiophil
       <p align="center">
         <a href="https://github.com/SatanMerde/Morphy-Patches-Creator">
           <img src="https://img.shields.io/badge/View_Repository-FF8800?style=flat-square&logo=github&logoColor=white" alt="View Morphy Patches Creator" />
-        </a>
-      </p>
-    </td>
-    <td width="33.33%" valign="top">
-      <h3 align="center">🎵 <a href="https://github.com/SatanMerde/BitChard">BitChard</a></h3>
-      <p align="center">
-        <b>Advanced YouTube Music & Spotify Client</b><br/>
-        <i>Android • Windows (Mica) • Linux • macOS • TV</i>
-      </p>
-      <ul>
-        <li>🎧 <b>Hi-Res Lossless Audio</b>: 24-bit 96kHz FLAC/ALAC playback, parametric EQ & crossfade.</li>
-        <li>🎤 <b>Synced Kinetic Lyrics</b>: Apple Music-style syllable-accurate animated lyrics.</li>
-        <li>🤖 <b>BitG Smart DJ</b>: Voice commentary & AI-powered playlist curation via LLMs.</li>
-        <li>📦 <b>Full Library Freedom</b>: 100% editable playlists & Spotify batch sync.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/SatanMerde/BitChard">
-          <img src="https://img.shields.io/badge/View_Repository-00D2FF?style=flat-square&logo=github&logoColor=white" alt="View BitChard" />
         </a>
       </p>
     </td>
