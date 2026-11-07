@@ -14,6 +14,7 @@
 
 <!-- Professional Badges -->
 [![Location](https://img.shields.io/badge/Location-France%20%F0%9F%87%AB%F0%9F%87%B7-0055A5?style=flat-square&logoColor=white)](https://github.com/SatanMerde)
+[![Website](https://img.shields.io/badge/Website-MétaMorphe-9333EA?style=flat-square&logo=vercel&logoColor=white)](https://metamorphe.vercel.app/)
 [![Ecosystem](https://img.shields.io/badge/Focus-Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/pw9wNbDzMx)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20My%20Work-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/satanmerde)
@@ -77,6 +78,30 @@ My work centers on **desktop and mobile multiplatform development**, **audiophil
       <p align="center">
         <a href="https://github.com/SatanMerde/Morphy-Patches-Creator">
           <img src="https://img.shields.io/badge/View_Repository-FF8800?style=flat-square&logo=github&logoColor=white" alt="View Morphy Patches Creator" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🔮 <a href="https://metamorphe.vercel.app/">MétaMorphe</a></h3>
+      <p align="center">
+        <b>Interactive Morphe Patch Ecosystem Catalog & Live Discovery</b><br/>
+        <i>Web App • Live Discovery • Open Registry • Zero Ads</i>
+      </p>
+      <ul>
+        <li>⚡ <b>Complete Ecosystem Map</b>: Explores community patch bundles, supported apps, versions, and repositories in one lightning-fast map.</li>
+        <li>🔎 <b>Instant Multi-Filter Search</b>: Instant search across apps and patches with deep categorization.</li>
+        <li>🌐 <b>Automated Discovery</b>: Live feed tracking newly released bundles and repository changes.</li>
+        <li>💖 <b>Community-Supported</b>: Interactive Ko-fi donation marquee & 100% free open-source tooling.</li>
+      </ul>
+      <p align="center">
+        <a href="https://metamorphe.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Site-9333EA?style=flat-square&logo=vercel&logoColor=white" alt="Live Site" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/SatanMerde/metamorphe">
+          <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
