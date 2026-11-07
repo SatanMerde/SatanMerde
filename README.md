@@ -16,6 +16,7 @@
 [![Location](https://img.shields.io/badge/Location-France%20%F0%9F%87%AB%F0%9F%87%B7-0055A5?style=flat-square&logoColor=white)](https://github.com/SatanMerde)
 [![Ecosystem](https://img.shields.io/badge/Focus-Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/pw9wNbDzMx)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20My%20Work-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/satanmerde)
 [![UI/UX](https://img.shields.io/badge/Design-Compose%20%26%20Material%20You-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://github.com/SatanMerde)
 [![License](https://img.shields.io/badge/Open%20Source-GPL%20%2F%20MIT-00D2FF?style=flat-square)](https://github.com/SatanMerde)
 
@@ -43,38 +44,57 @@ My work centers on **desktop and mobile multiplatform development**, **audiophil
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎵 <a href="https://github.com/SatanMerde/BitChard">BitChard</a></h3>
-      <p align="center">
-        <b>Advanced YouTube Music & Spotify Multiplatform Client</b><br/>
-        <i>Android • Windows (Mica) • Linux (MPRIS) • macOS • Android TV • WearOS</i>
-      </p>
-      <ul>
-        <li>🎧 <b>Hi-Res Lossless Engine</b>: 24-bit 96kHz FLAC/ALAC playback, parametric EQ & seamless crossfade.</li>
-        <li>🎤 <b>Apple Music-Style Synced Lyrics</b>: Word and syllable-accurate kinetic typography.</li>
-        <li>🤖 <b>BitG Smart DJ</b>: Voice commentary and smart session curation powered by LLMs.</li>
-        <li>📦 <b>Full Library Freedom</b>: 100% editable playlists and 1-click Spotify batch synchronization.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/SatanMerde/BitChard">
-          <img src="https://img.shields.io/badge/View_Repository-00D2FF?style=flat-square&logo=github&logoColor=white" alt="View BitChard" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <h3 align="center">🦈 <a href="https://github.com/SatanMerde/D-moniakPatches">D-moniakPatches</a></h3>
       <p align="center">
         <b>Modular Android Patch Ecosystem</b><br/>
-        <i>Mobile Modding • Automation • Reverse-Engineering</i>
+        <i>Morphe • Bytecode Manipulation • Privacy</i>
       </p>
       <ul>
-        <li>⚡ <b>Modular Architecture</b>: Automated patch collection for enhancing popular Android apps.</li>
-        <li>🛠️ <b>Reversible & Transparent</b>: Clean byte manipulation with reliable CI/CD pipelines.</li>
-        <li>⭐ <b>Community Backed</b>: Actively maintained with growing community adoption.</li>
+        <li>⚡ <b>494+ Patches</b>: Automated bytecode engine for popular Android apps.</li>
+        <li>🛡️ <b>Anti-Tamper & Security</b>: Bypasses for signatures, RootBeer & VPN detection.</li>
+        <li>📺 <b>Ad-Free & Media</b>: Neutralizes video ad pods, commercials & tracking.</li>
+        <li>⚙️ <b>Continuous Delivery</b>: Automated releases and transparent Kotlin AST hooks.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/SatanMerde/D-moniakPatches">
           <img src="https://img.shields.io/badge/View_Repository-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="View D-moniakPatches" />
+        </a>
+      </p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3 align="center">🛠️ <a href="https://github.com/SatanMerde/Morphy-Patches-Creator">Morphy Patches Creator</a></h3>
+      <p align="center">
+        <b>Reverse Engineering & Patch Pipeline</b><br/>
+        <i>Apktool • REA • Morphe-AI • Agentic MCP</i>
+      </p>
+      <ul>
+        <li>🔬 <b>Unified Introspection</b>: Smali decompilation, native <code>.so</code> inspection & CFG analysis.</li>
+        <li>🤖 <b>Universal AI & MCP</b>: Agentic pair-programming for Antigravity, Claude, Cursor & Copilot.</li>
+        <li>⚙️ <b>Automated Synthesis</b>: Generates upgrade-tolerant Kotlin patches for Morphe.</li>
+        <li>📦 <b>Full CLI Suite</b>: Interactive shell, rule generation, and AST verification.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/SatanMerde/Morphy-Patches-Creator">
+          <img src="https://img.shields.io/badge/View_Repository-FF8800?style=flat-square&logo=github&logoColor=white" alt="View Morphy Patches Creator" />
+        </a>
+      </p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3 align="center">🎵 <a href="https://github.com/SatanMerde/BitChard">BitChard</a></h3>
+      <p align="center">
+        <b>Advanced YouTube Music & Spotify Client</b><br/>
+        <i>Android • Windows (Mica) • Linux • macOS • TV</i>
+      </p>
+      <ul>
+        <li>🎧 <b>Hi-Res Lossless Audio</b>: 24-bit 96kHz FLAC/ALAC playback, parametric EQ & crossfade.</li>
+        <li>🎤 <b>Synced Kinetic Lyrics</b>: Apple Music-style syllable-accurate animated lyrics.</li>
+        <li>🤖 <b>BitG Smart DJ</b>: Voice commentary & AI-powered playlist curation via LLMs.</li>
+        <li>📦 <b>Full Library Freedom</b>: 100% editable playlists & Spotify batch sync.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/SatanMerde/BitChard">
+          <img src="https://img.shields.io/badge/View_Repository-00D2FF?style=flat-square&logo=github&logoColor=white" alt="View BitChard" />
         </a>
       </p>
     </td>
@@ -86,12 +106,18 @@ My work centers on **desktop and mobile multiplatform development**, **audiophil
 
 <div align="center">
 
-### 💬 Official Community & Discord
-Connect with the community, get support, test beta releases, and share AI DJ prompts for **BitChard** & **D-moniakPatches** :
+### 💬 Official Community & Support
+Connect with the community, get support, test beta releases, and support my open-source projects:
 
-<a href="https://discord.gg/pw9wNbDzMx">
-  <img src="https://img.shields.io/badge/Discord-Join%20Official%20Community%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord Server" />
-</a>
+<p align="center">
+  <a href="https://ko-fi.com/satanmerde">
+    <img src="https://img.shields.io/badge/Ko--fi-Support_My_Work-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/pw9wNbDzMx">
+    <img src="https://img.shields.io/badge/Discord-Join%20Official%20Community%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord Server" />
+  </a>
+</p>
 
 </div>
 
